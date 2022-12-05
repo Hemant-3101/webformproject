@@ -78,6 +78,11 @@ button:hover{
     transition: 0.3s ease-out;
     cursor: pointer;
 }
+.foot{
+    padding: 10px;
+    margin: 50px;
+    margin-top: 50px;
+}
 .textarea_control{
     grid-column: 1 / span 2;
 }
